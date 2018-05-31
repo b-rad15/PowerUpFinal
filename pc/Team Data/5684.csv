@@ -1,0 +1,27 @@
+Team:,5684
+Match:,6,13,16
+Position,Left,Right,Right
+AUTONOMOUS,,,
+Crossed Line:,Yes,Yes,Yes
+Dropped Block:,No,No,No
+Block Placement:,N/A,N/A,Switch
+Blocks Picked Up:,4,5,3
+Alliance Switch Blocks:,0,0,1
+Scale Blocks:,0,0,0
+Opponent Switch Blocks:,0,0,0
+Blocks in Exchange:,0,0,0
+TELEOP,,,
+Blocks Picked Up:,4,5,3
+Alliance Switch Blocks:,2,0,3
+Scale Blocks:,2,1,0
+Opponent Switch Blocks:,0,0,0
+Blocks in Exchange:,0,5,5
+Levitate:,3,3,3
+Force:,3,0,3
+Boost:,3,0,3
+ENDGAME,,,
+Climb:,Climbed Onto Wrung,Climbed Using Other Robot,Did Not Climb
+Number Climbing on This:,0,0,0
+Error:,No,No,No
+Defensive:,No,No,No
+Comments:,0,0,0

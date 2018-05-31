@@ -1,0 +1,27 @@
+Team:,4575
+Match:,17
+Position,Middle
+AUTONOMOUS
+Crossed Line:,Yes
+Dropped Block:,No
+Block Placement:,N/A
+Blocks Picked Up:,3
+Alliance Switch Blocks:,1
+Scale Blocks:,0
+Opponent Switch Blocks:,0
+Blocks in Exchange:,0
+TELEOP
+Blocks Picked Up:,3
+Alliance Switch Blocks:,2
+Scale Blocks:,0
+Opponent Switch Blocks:,0
+Blocks in Exchange:,3
+Levitate:,3
+Force:,0
+Boost:,3
+ENDGAME
+Climb:,Climbed Using Other Robot
+Number Climbing on This:,0
+Error:,Yes
+Defensive:,No
+Comments:,

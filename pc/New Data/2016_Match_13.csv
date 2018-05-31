@@ -1,0 +1,27 @@
+Team:,2016
+Match:,13
+Position,Middle
+AUTONOMOUS
+Crossed Line:,Yes
+Dropped Block:,No
+Block Placement:,N/A
+Blocks Picked Up:,8
+Alliance Switch Blocks:,0
+Scale Blocks:,0
+Opponent Switch Blocks:,0
+Blocks in Exchange:,0
+TELEOP
+Blocks Picked Up:,8
+Alliance Switch Blocks:,2
+Scale Blocks:,0
+Opponent Switch Blocks:,0
+Blocks in Exchange:,6
+Levitate:,3
+Force:,3
+Boost:,3
+ENDGAME
+Climb:,Did Not Climb
+Number Climbing on This:,0
+Error:,No
+Defensive:,No
+Comments:,0

@@ -1,0 +1,27 @@
+Team:,3142
+Match:,12
+Position,Middle
+AUTONOMOUS,
+Crossed Line:,Yes
+Dropped Block:,No
+Block Placement:,N/A
+Blocks Picked Up:,4
+Alliance Switch Blocks:,0
+Scale Blocks:,0
+Opponent Switch Blocks:,0
+Blocks in Exchange:,0
+TELEOP,
+Blocks Picked Up:,4
+Alliance Switch Blocks:,0
+Scale Blocks:,4
+Opponent Switch Blocks:,0
+Blocks in Exchange:,0
+Levitate:,0
+Force:,0
+Boost:,0
+ENDGAME,
+Climb:,Did Not Climb
+Number Climbing on This:,0
+Error:,No
+Defensive:,No
+Comments:,0

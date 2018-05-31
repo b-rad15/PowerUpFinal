@@ -1,0 +1,27 @@
+Team:,555
+Match:,4,14
+Position,Middle,Middle
+AUTONOMOUS,,
+Crossed Line:,No,Yes
+Dropped Block:,No,No
+Block Placement:,Switch,N/A
+Blocks Picked Up:,1,3
+Alliance Switch Blocks:,1,0
+Scale Blocks:,0,0
+Opponent Switch Blocks:,0,0
+Blocks in Exchange:,0,0
+TELEOP,,
+Blocks Picked Up:,1,3
+Alliance Switch Blocks:,0,0
+Scale Blocks:,0,3
+Opponent Switch Blocks:,0,0
+Blocks in Exchange:,0,0
+Levitate:,3,0
+Force:,3,0
+Boost:,2,0
+ENDGAME,,
+Climb:,Did Not Climb,Did Not Climb
+Number Climbing on This:,0,0
+Error:,No,No
+Defensive:,No,No
+Comments:,0,0

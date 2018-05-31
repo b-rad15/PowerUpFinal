@@ -1,0 +1,27 @@
+Team:,1626
+Match:,7
+Position,Middle
+AUTONOMOUS
+Crossed Line:,Yes
+Dropped Block:,No
+Block Placement:,Switch
+Blocks Picked Up:,6
+Alliance Switch Blocks:,0
+Scale Blocks:,0
+Opponent Switch Blocks:,0
+Blocks in Exchange:,0
+TELEOP
+Blocks Picked Up:,6
+Alliance Switch Blocks:,1
+Scale Blocks:,3
+Opponent Switch Blocks:,2
+Blocks in Exchange:,0
+Levitate:,1
+Force:,0
+Boost:,0
+ENDGAME
+Climb:,Failed to Climb
+Number Climbing on This:,0
+Error:,No
+Defensive:,No
+Comments:,

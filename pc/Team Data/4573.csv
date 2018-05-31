@@ -1,0 +1,27 @@
+Team:,4573
+Match:,6
+Position,Right
+AUTONOMOUS,
+Crossed Line:,Yes
+Dropped Block:,Yes
+Block Placement:,Switch
+Blocks Picked Up:,4
+Alliance Switch Blocks:,0
+Scale Blocks:,0
+Opponent Switch Blocks:,0
+Blocks in Exchange:,0
+TELEOP,
+Blocks Picked Up:,4
+Alliance Switch Blocks:,1
+Scale Blocks:,0
+Opponent Switch Blocks:,0
+Blocks in Exchange:,3
+Levitate:,0
+Force:,0
+Boost:,0
+ENDGAME,
+Climb:,Climbed Onto Wrung
+Number Climbing on This:,0
+Error:,No
+Defensive:,No
+Comments:,0

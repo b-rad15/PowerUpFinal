@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_scouting" default="compile.module.scouting">
+  <dirname property="module.scouting.basedir" file="${ant.file.module_scouting}"/>
+  
+  <property name="module.jdk.home.scouting" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.scouting" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.scouting" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.scouting" value="-encoding UTF-8 -source 1.8 -target 1.8 ${compiler.args}"/>
+  
+  <property name="scouting.output.dir" value="${module.scouting.basedir}/out/production/Scouting"/>
+  <property name="scouting.testoutput.dir" value="${module.scouting.basedir}/out/test/Scouting"/>
+  
+  <path id="scouting.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="scouting.module.production.classpath">
+    <path refid="${module.jdk.classpath.scouting}"/>
+  </path>
+  
+  <path id="scouting.runtime.production.module.classpath">
+    <pathelement location="${scouting.output.dir}"/>
+  </path>
+  
+  <path id="scouting.module.classpath">
+    <path refid="${module.jdk.classpath.scouting}"/>
+    <pathelement location="${scouting.output.dir}"/>
+  </path>
+  
+  <path id="scouting.runtime.module.classpath">
+    <pathelement location="${scouting.testoutput.dir}"/>
+    <pathelement location="${scouting.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.scouting">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.scouting">
+    <patternset refid="excluded.from.module.scouting"/>
+  </patternset>
+  
+  <path id="scouting.module.sourcepath">
+    <dirset dir="${module.scouting.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.scouting" depends="compile.module.scouting.production,compile.module.scouting.tests" description="Compile module Scouting"/>
+  
+  <target name="compile.module.scouting.production" depends="register.custom.compilers" description="Compile module Scouting; production classes">
+    <mkdir dir="${scouting.output.dir}"/>
+    <javac2 destdir="${scouting.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.scouting}/javac">
+      <compilerarg line="${compiler.args.scouting}"/>
+      <bootclasspath refid="scouting.module.bootclasspath"/>
+      <classpath refid="scouting.module.production.classpath"/>
+      <src refid="scouting.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.scouting"/>
+    </javac2>
+    
+    <copy todir="${scouting.output.dir}">
+      <fileset dir="${module.scouting.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.scouting.tests" depends="register.custom.compilers,compile.module.scouting.production" description="compile module Scouting; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.scouting" description="cleanup module">
+    <delete dir="${scouting.output.dir}"/>
+    <delete dir="${scouting.testoutput.dir}"/>
+  </target>
+</project>

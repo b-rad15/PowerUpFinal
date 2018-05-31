@@ -1,0 +1,27 @@
+Team:,1676
+Match:,7
+Position,Left
+AUTONOMOUS
+Crossed Line:,No
+Dropped Block:,Yes
+Block Placement:,N/A
+Blocks Picked Up:,3
+Alliance Switch Blocks:,0
+Scale Blocks:,0
+Opponent Switch Blocks:,0
+Blocks in Exchange:,0
+TELEOP
+Blocks Picked Up:,3
+Alliance Switch Blocks:,0
+Scale Blocks:,0
+Opponent Switch Blocks:,0
+Blocks in Exchange:,3
+Levitate:,0
+Force:,3
+Boost:,0
+ENDGAME
+Climb:,Climbed Using Other Robot
+Number Climbing on This:,0
+Error:,No
+Defensive:,No
+Comments:,0

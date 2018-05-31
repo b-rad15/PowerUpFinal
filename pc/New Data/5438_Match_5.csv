@@ -1,0 +1,27 @@
+Team:,5438
+Match:,5
+Position,Left
+AUTONOMOUS
+Crossed Line:,No
+Dropped Block:,No
+Block Placement:,N/A
+Blocks Picked Up:,2
+Alliance Switch Blocks:,0
+Scale Blocks:,0
+Opponent Switch Blocks:,0
+Blocks in Exchange:,0
+TELEOP
+Blocks Picked Up:,2
+Alliance Switch Blocks:,1
+Scale Blocks:,0
+Opponent Switch Blocks:,1
+Blocks in Exchange:,0
+Levitate:,2
+Force:,3
+Boost:,3
+ENDGAME
+Climb:,Did Not Climb
+Number Climbing on This:,0
+Error:,No
+Defensive:,No
+Comments:,0

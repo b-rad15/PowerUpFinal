@@ -1,0 +1,27 @@
+Team:,1403
+Match:,2
+Position,Middle
+AUTONOMOUS
+Crossed Line:,No
+Dropped Block:,No
+Block Placement:,Switch
+Blocks Picked Up:,6
+Alliance Switch Blocks:,1
+Scale Blocks:,0
+Opponent Switch Blocks:,1
+Blocks in Exchange:,0
+TELEOP
+Blocks Picked Up:,6
+Alliance Switch Blocks:,1
+Scale Blocks:,0
+Opponent Switch Blocks:,0
+Blocks in Exchange:,6
+Levitate:,2
+Force:,2
+Boost:,2
+ENDGAME
+Climb:,Did Not Climb
+Number Climbing on This:,0
+Error:,No
+Defensive:,No
+Comments:,0

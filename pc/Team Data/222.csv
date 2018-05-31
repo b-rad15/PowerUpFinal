@@ -1,0 +1,27 @@
+Team:,222
+Match:,1,14
+Position,Right,Right
+AUTONOMOUS,,
+Crossed Line:,Yes,Yes
+Dropped Block:,No,Yes
+Block Placement:,Scale,Scale
+Blocks Picked Up:,0,4
+Alliance Switch Blocks:,0,0
+Scale Blocks:,0,0
+Opponent Switch Blocks:,0,0
+Blocks in Exchange:,0,0
+TELEOP,,
+Blocks Picked Up:,0,4
+Alliance Switch Blocks:,0,1
+Scale Blocks:,0,1
+Opponent Switch Blocks:,0,0
+Blocks in Exchange:,0,4
+Levitate:,0,3
+Force:,0,0
+Boost:,0,0
+ENDGAME,,
+Climb:,Did Not Climb,Climbed Using Other Robot
+Number Climbing on This:,0,0
+Error:,No,No
+Defensive:,No,No
+Comments:,0,0

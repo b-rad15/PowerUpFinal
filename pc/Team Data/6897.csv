@@ -1,0 +1,27 @@
+Team:,6897
+Match:,3,10
+Position,Left,Left
+AUTONOMOUS,,
+Crossed Line:,Yes,Yes
+Dropped Block:,Yes,No
+Block Placement:,N/A,N/A
+Blocks Picked Up:,3,3
+Alliance Switch Blocks:,0,0
+Scale Blocks:,0,0
+Opponent Switch Blocks:,0,0
+Blocks in Exchange:,0,0
+TELEOP,,
+Blocks Picked Up:,3,3
+Alliance Switch Blocks:,0,0
+Scale Blocks:,0,0
+Opponent Switch Blocks:,0,0
+Blocks in Exchange:,3,4
+Levitate:,0,0
+Force:,3,0
+Boost:,0,3
+ENDGAME,,
+Climb:,Did Not Climb,Did Not Climb
+Number Climbing on This:,0,0
+Error:,No,No
+Defensive:,No,No
+Comments:,0,0

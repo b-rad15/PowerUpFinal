@@ -1,0 +1,27 @@
+Team:,225
+Match:,2
+Position,Right
+AUTONOMOUS
+Crossed Line:,Yes
+Dropped Block:,No
+Block Placement:,Scale
+Blocks Picked Up:,5
+Alliance Switch Blocks:,0
+Scale Blocks:,0
+Opponent Switch Blocks:,0
+Blocks in Exchange:,0
+TELEOP
+Blocks Picked Up:,5
+Alliance Switch Blocks:,0
+Scale Blocks:,2
+Opponent Switch Blocks:,3
+Blocks in Exchange:,0
+Levitate:,3
+Force:,3
+Boost:,1
+ENDGAME
+Climb:,Failed to Climb
+Number Climbing on This:,0
+Error:,No
+Defensive:,No
+Comments:,
