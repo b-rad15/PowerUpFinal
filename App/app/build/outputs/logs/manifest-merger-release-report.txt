@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fcc3e910bd74251cfd8599239e756f2d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3b0ed95e93f3221badde53ffa2b1f565\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ea6b7afff9fbdcfd9aa506bd910fd182\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\fe66138999ea585f35502880daba34e5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ed3ed7ee2f7fa433015235a940d2af8f\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\8dc1f0225aaa4c51e6d7dc2769f76170\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\32143b938665881c9005c9878e51c18d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fd5f2561d1f8c6be51af055827eb04aa\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b0912c8d4f061948f4adc61f13931d89\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0585cc6ce16b8268389bf10e60960313\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\545bf5896acfae3b819a6a8892453101\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7627320d5d044b845678654c3872f121\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0437e6ec2074fb47884dcb0daa54815a\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ea2e8033a0e447c73a98d42cec1d5f59\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:5:5-22:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fcc3e910bd74251cfd8599239e756f2d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fcc3e910bd74251cfd8599239e756f2d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3b0ed95e93f3221badde53ffa2b1f565\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3b0ed95e93f3221badde53ffa2b1f565\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ea6b7afff9fbdcfd9aa506bd910fd182\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ea6b7afff9fbdcfd9aa506bd910fd182\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\fe66138999ea585f35502880daba34e5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\fe66138999ea585f35502880daba34e5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ed3ed7ee2f7fa433015235a940d2af8f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ed3ed7ee2f7fa433015235a940d2af8f\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\8dc1f0225aaa4c51e6d7dc2769f76170\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\8dc1f0225aaa4c51e6d7dc2769f76170\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\32143b938665881c9005c9878e51c18d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\32143b938665881c9005c9878e51c18d\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fd5f2561d1f8c6be51af055827eb04aa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fd5f2561d1f8c6be51af055827eb04aa\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b0912c8d4f061948f4adc61f13931d89\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b0912c8d4f061948f4adc61f13931d89\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0585cc6ce16b8268389bf10e60960313\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0585cc6ce16b8268389bf10e60960313\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\545bf5896acfae3b819a6a8892453101\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\545bf5896acfae3b819a6a8892453101\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7627320d5d044b845678654c3872f121\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7627320d5d044b845678654c3872f121\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0437e6ec2074fb47884dcb0daa54815a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0437e6ec2074fb47884dcb0daa54815a\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ea2e8033a0e447c73a98d42cec1d5f59\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ea2e8033a0e447c73a98d42cec1d5f59\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:9:9-53
+	android:icon
+		ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:7:9-42
+	android:allowBackup
+		ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.brado.powerupscouting.ScoutingActivity
+ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:14:13-45
+	android:theme
+		ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:15:13-56
+	android:name
+		ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:13:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fcc3e910bd74251cfd8599239e756f2d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fcc3e910bd74251cfd8599239e756f2d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3b0ed95e93f3221badde53ffa2b1f565\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3b0ed95e93f3221badde53ffa2b1f565\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ea6b7afff9fbdcfd9aa506bd910fd182\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ea6b7afff9fbdcfd9aa506bd910fd182\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\fe66138999ea585f35502880daba34e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\fe66138999ea585f35502880daba34e5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ed3ed7ee2f7fa433015235a940d2af8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ed3ed7ee2f7fa433015235a940d2af8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\8dc1f0225aaa4c51e6d7dc2769f76170\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\8dc1f0225aaa4c51e6d7dc2769f76170\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\32143b938665881c9005c9878e51c18d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\32143b938665881c9005c9878e51c18d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fd5f2561d1f8c6be51af055827eb04aa\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fd5f2561d1f8c6be51af055827eb04aa\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b0912c8d4f061948f4adc61f13931d89\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b0912c8d4f061948f4adc61f13931d89\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0585cc6ce16b8268389bf10e60960313\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0585cc6ce16b8268389bf10e60960313\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\545bf5896acfae3b819a6a8892453101\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\545bf5896acfae3b819a6a8892453101\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7627320d5d044b845678654c3872f121\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7627320d5d044b845678654c3872f121\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0437e6ec2074fb47884dcb0daa54815a\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0437e6ec2074fb47884dcb0daa54815a\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ea2e8033a0e447c73a98d42cec1d5f59\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ea2e8033a0e447c73a98d42cec1d5f59\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fcc3e910bd74251cfd8599239e756f2d\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brado\OneDrive\Programs\PowerUpScouting\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fcc3e910bd74251cfd8599239e756f2d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3b0ed95e93f3221badde53ffa2b1f565\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\3b0ed95e93f3221badde53ffa2b1f565\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\fe66138999ea585f35502880daba34e5\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\fe66138999ea585f35502880daba34e5\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ed3ed7ee2f7fa433015235a940d2af8f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\ed3ed7ee2f7fa433015235a940d2af8f\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\8dc1f0225aaa4c51e6d7dc2769f76170\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\8dc1f0225aaa4c51e6d7dc2769f76170\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\32143b938665881c9005c9878e51c18d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\32143b938665881c9005c9878e51c18d\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fd5f2561d1f8c6be51af055827eb04aa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\fd5f2561d1f8c6be51af055827eb04aa\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b0912c8d4f061948f4adc61f13931d89\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\b0912c8d4f061948f4adc61f13931d89\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0585cc6ce16b8268389bf10e60960313\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\0585cc6ce16b8268389bf10e60960313\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\545bf5896acfae3b819a6a8892453101\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\545bf5896acfae3b819a6a8892453101\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7627320d5d044b845678654c3872f121\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\7627320d5d044b845678654c3872f121\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0437e6ec2074fb47884dcb0daa54815a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\0437e6ec2074fb47884dcb0daa54815a\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fcc3e910bd74251cfd8599239e756f2d\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\fcc3e910bd74251cfd8599239e756f2d\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ea2e8033a0e447c73a98d42cec1d5f59\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ea2e8033a0e447c73a98d42cec1d5f59\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\brado\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ea2e8033a0e447c73a98d42cec1d5f59\AndroidManifest.xml:26:13-58
