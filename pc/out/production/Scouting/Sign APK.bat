@@ -1,0 +1,1 @@
+jarsigner -verbose -sigalg SHA1withRSA -digestalg SHA1 -keystore "C:\Users\brado\Documents\My Keys\scouting.jks"   C:\Users\brado\OneDrive\Programs\Scouting\release\app-release.apk teamRelease
